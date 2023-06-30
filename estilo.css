@@ -1,32 +1,45 @@
-body{
-    background-color:rgba(160, 149, 100);
-    font-family: 'Lucida Sans';
-    font-size: small;
-    color: #fdfdfd;
-    text-align: center;
-    display: inline;
-    font-size: 14px;
-    }
-    h3{
-    font-family: 'Lucida Sans';
-    font-size: small;
-    color: #fdfdfd;
-    text-align: center;
-    display: inline;
-    font-size: 14px;
-    }
-    .linha {
-    font-family: 'Lucida Sans';
-    font-size: small;
-    font-size: 12px;
-    background-color:rgb(66, 56, 10);
-    }
-    .lista {
-    font-family: 'Lucida Sans';
-    font-size: small;
-    text-align: left;
-    font-size: 12px;
-    color:rgb(66, 56, 10);
-    }
-    .itens {
-    background-color: rgb(211, 204, 174);
+.menu{
+    width: 1224px;
+    height: 32px;
+    background: #6546A7;
+}
+.menu-texto{
+    color: #FFF;
+text-align: center;
+font-size: 32px;
+font-family: Inika;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+cabec{
+    width: 1224px;
+    height: 225px;
+    transform: rotate(-0.186deg);
+    flex-shrink: 0;
+    background: #6546A7;
+}
+cabec-img{
+
+width: 1224.285px;
+height: 221.981px;
+transform: rotate(0.186deg);
+background: #FFF;
+}
+cabec-texto{
+    display: flex;
+    width: 958px;
+    height: 291px;
+    transform: rotate(-0.186deg);
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FFF;
+text-align: center;
+font-size: 48px;
+font-family: Inika;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
