@@ -1,5 +1,5 @@
 .menu{
-    width: 1224px;
+    width: 1440px;
     height: 32px;
     background: #6546A7;
 }
@@ -17,18 +17,15 @@ line-height: normal;
 }
 cabec{
     
-    width: 1224px;
+    width: 1440px;
     height: 225px;
-    transform: rotate(-0.186deg);
     flex-shrink: 0;
     background: #6546A7;
 }
 cabec-img{
 
 width: 1224.285px;
-height: 221.981px;
-transform: rotate(0.186deg);
-background: #FFF;
+
 }
 cabec-texto{
     display: flex;
